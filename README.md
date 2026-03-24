@@ -57,3 +57,17 @@ The dashboard supports fast, actionable insights for AP teams and finance manage
 - Power BI (.pbix)  
 - Dataset (CSV/Excel)  
 - Screenshots of dashboard pages  
+
+## 📸 Dashboard Screenshots
+
+### Aging Analysis
+![Aging Analysis](screenshots/Aging%20Analysis.png)
+
+### Aging Bucket Distribution
+![Aging Bucket](screenshots/Aging%20Bucket.png)
+
+### Overdue Amount by Vendor
+![Overdue Amount](screenshots/Overdue%20Amount%20by%20Vendor%20Name.png)
+
+### Invoice Table
+![Invoice Table](screenshots/Table.png)
