@@ -1,73 +1,69 @@
-# AP-Aging-Dashboard
+# AP Aging Dashboard – Power BI Project
 
-# Accounts Payable Aging Dashboard  
-**Power BI Project – Vendor Risk & Overdue Analysis**
+## 📊 Project Summary
+This project presents an Accounts Payable (AP) Aging dashboard built in Power BI to provide clear visibility over outstanding invoices, overdue balances and vendor risk.
 
-## 📌 Business Problem  
-The company lacked visibility into overdue invoices, outstanding amounts, and the distribution of invoices across aging buckets.  
-Management needed a clear, visual overview to identify payment risks, prioritize vendor follow‑ups, and support decision‑making.
+The dashboard supports finance teams in monitoring payment performance, improving cash flow control and identifying high-risk vendors.
 
 ---
 
-## 📌 Solution  
-I built a multi‑page Accounts Payable dashboard in Power BI that provides:
+## 💼 Business Problem
+In many organisations, accounts payable data is managed through manual spreadsheets, making it difficult to:
 
-- Total outstanding and overdue amounts  
-- Aging bucket distribution  
-- Vendor‑level overdue analysis  
-- Invoice‑level risk breakdown with conditional formatting  
+- Track overdue invoices efficiently  
+- Identify vendors with high outstanding balances  
+- Monitor payment trends over time  
+- Support timely financial decision-making  
 
-Data was cleaned and transformed in **Power Query**, and key KPIs were calculated using **DAX**.  
-The dashboard supports fast, actionable insights for AP teams and finance managers.
-
----
-
-## 📌 Key Insights  
-
-### **1. Overdue Exposure**
-- 100% of the outstanding amount is overdue, indicating immediate action is required.
-
-### **2. Vendor Risk Concentration**
-- The majority of overdue balance is linked to a single vendor, while others show minimal risk.
-- This enables targeted follow‑up instead of broad, unfocused chasing.
-
-### **3. Aging Bucket Distribution**
-- Most outstanding amount sits in the **Not Due** category (0.24M).
-- Only 0.01M falls into the 0–30 days bucket.
-- The issue is not widespread — it is concentrated in a few high‑value invoices.
-
-### **4. Invoice‑Level Risk**
-- GreenLeaf Waste Management shows multiple invoices overdue by **400–1100+ days**.
-- The color‑coded table highlights the highest‑risk items for immediate escalation.
+This lack of visibility can lead to cash flow issues and poor vendor relationship management.
 
 ---
 
-## 📌 Tools & Techniques  
+## 🚀 Solution
+Developed an interactive Power BI dashboard to:
+
+- Analyse invoice aging across multiple time buckets  
+- Highlight overdue balances and financial exposure  
+- Identify high-risk vendors based on outstanding amounts  
+- Provide dynamic filtering for deeper analysis  
+
+---
+
+## 🔍 Key Insights
+- A significant portion of invoices falls into overdue categories (30+ / 60+ days)  
+- A small number of vendors represent a large share of total outstanding balance  
+- Payment delays show patterns that can be monitored over time  
+
+---
+
+## 🛠 Tools & Technologies
 - Power BI  
-- Power Query  
-- DAX  
-- Data Modelling  
-- KPI Design  
-- Conditional Formatting  
-- Financial Analysis (AP Aging)
+- Power Query (data transformation)  
+- Excel / CSV dataset  
+- DAX (for calculations and measures)  
 
 ---
 
-## 📌 Project Files  
-- Power BI (.pbix)  
-- Dataset (CSV/Excel)  
-- Screenshots of dashboard pages  
+## ⚙️ Process & Approach
+- Cleaned and transformed raw financial data using Power Query  
+- Built a structured data model for efficient analysis  
+- Created calculated measures to track KPIs (total outstanding, overdue amounts)  
+- Designed interactive visuals for business users  
 
-## 📸 Dashboard Screenshots
+---
 
-### Aging Analysis
-![Aging Analysis](screenshots/Aging%20Analysis.png)
+## 📈 Business Impact
+- Improves visibility of accounts payable performance  
+- Enables faster identification of overdue invoices  
+- Supports better cash flow management  
+- Replaces manual tracking with automated reporting  
 
-### Aging Bucket Distribution
-![Aging Bucket](screenshots/Aging%20Bucket.png)
+---
 
-### Overdue Amount by Vendor
-![Overdue Amount](screenshots/Overdue%20Amount%20by%20Vendor%20Name.png)
+## 📂 Project Files
+- Power BI file (.pbix)  
+- Dataset  
+- Dashboard screenshots  
 
-### Invoice Table
-![Invoice Table](screenshots/Table.png)
+👉 Full project available here:  
+[GitHub Repository](https://github.com/Kpetran/AP-Aging-Dashboard/blob/main/README.md)
