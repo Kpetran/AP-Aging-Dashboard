@@ -62,7 +62,21 @@ Developed an interactive Power BI dashboard to:
 
 ## 📂 Project Files
 - Power BI file (.pbix)  
-- Dataset  
+- Dataset
+
+- ## 📸 Dashboard Preview
+
+### Aging Analysis
+![Aging Analysis](screenshots/Aging Analysis.png)
+
+### Aging Buckets
+![Aging Buckets](screenshots/Aging Bucket.png)
+
+### Overdue by Vendor
+![Overdue by Vendor](screenshots/Overdue Amount by Vendor Name.png)
+
+### Detailed Table View
+![Table](screenshots/Table.png)
 - Dashboard screenshots  
 
 👉 Full project available here:  
