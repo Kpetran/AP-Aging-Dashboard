@@ -64,20 +64,16 @@ Developed an interactive Power BI dashboard to:
 - Power BI file (.pbix)  
 - Dataset
 
-- ## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Aging Analysis
-![Aging Analysis](screenshots/Aging Analysis.png)
+![Aging Analysis](screenshots/Aging%20Analysis.png)
 
 ### Aging Buckets
-![Aging Buckets](screenshots/Aging Bucket.png)
+![Aging Buckets](screenshots/Aging%20Bucket.png)
 
 ### Overdue by Vendor
-![Overdue by Vendor](screenshots/Overdue Amount by Vendor Name.png)
+![Overdue by Vendor](screenshots/Overdue%20Amount%20by%20Vendor%20Name.png)
 
 ### Detailed Table View
 ![Table](screenshots/Table.png)
-- Dashboard screenshots  
-
-👉 Full project available here:  
-[GitHub Repository](https://github.com/Kpetran/AP-Aging-Dashboard/blob/main/README.md)
